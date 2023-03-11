@@ -1,0 +1,27 @@
+p{
+	font-size: 100px;
+	text-align: center;
+}
+
+body{
+	background-color: #4c68a8;
+	color: white;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#banner{
+	width: 100%;
+}
+
+#logo{
+	width: 50%;
+}
+
+.cards{
+	width: 35%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
