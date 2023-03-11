@@ -1,0 +1,19 @@
+.cards{
+	height: 1000px;
+}
+
+body{
+	background-color: #b57d50;
+}
+
+#tb, #gm{
+	background-color: #a8beed;
+	padding: 1cm;
+	border-radius: 100px;
+	border: 5px dotted #5d6575;
+	margin: 100px;
+}
+
+ul, ol{
+	list-style-type: none;
+}
